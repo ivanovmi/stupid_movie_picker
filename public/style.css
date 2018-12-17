@@ -1,0 +1,67 @@
+html {
+    font-size: 2vh;
+}
+
+body {
+    background-color: #5DCFC3;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.center-div {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 60vw;
+    height: 90vh;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: white;
+    padding: 0;
+}
+
+/*
+.table {
+    display: table;
+}
+
+.table-row {
+    display: table-row;
+    margin: 10vh;
+}
+
+.table-cell {
+    display: table-cell;
+    text-align: center;
+}
+
+*/
+table {
+    height: 99%;
+}
+
+td {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.c {
+    margin-top: 1.5vh;
+}
+
+img {
+    margin-right: 20px;
+}
+/*
+@media (aspect-ratio: 18/9) {
+    table {
+        margin-left: 1px;
+    }
+}
